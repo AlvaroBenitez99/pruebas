@@ -18,4 +18,5 @@ totalFlores=totalLilio+totalTulipan+totalRosas;
 console.log("Rose - unit price ",precioRosa,", Cantidad Rosas  ", cantidadRosas, "Precio total Rosas ",totalRosas );
 console.log(totalFlores);
 console.log("Lo cambio");
+console.log("Holita");
 
